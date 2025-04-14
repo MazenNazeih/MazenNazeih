@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MazenNazeih
 - 👀 I’m interested in software development, Cyber security, and AI.
-- 🌱 I'm will start learning full stack web development.
+- 🌱 I will start learning full stack web development.
 - 📫 How to reach me: on linkedin.com/in/mazen-nazeih-85a3b4277
 
 
